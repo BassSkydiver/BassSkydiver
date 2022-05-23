@@ -2,4 +2,4 @@ I make things sometimes
 
 My favorite cheese is pepper jack
 
-![image](https://user-images.githubusercontent.com/104407674/169920692-337dae7c-52d1-4d3b-bbbe-bf6e9cae803f.png)
+![My project](https://user-images.githubusercontent.com/104407674/169920916-7365c410-7eb8-4329-8d04-6b9c71aa2cc3.png)
